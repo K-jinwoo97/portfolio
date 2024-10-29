@@ -5,4 +5,4 @@ table{width:100%; border-collapse:collapse;}
 img{max-width: 100%;}
 body{background-color: #fff; color:#333;}
 
-.in{width:200px; height:200px; color:#6353ac;}
+.in{width:200px; height:200px; color:#6353ac; font-size:50px; background-color:aqua;}
