@@ -1,0 +1,8 @@
+*{padding:0; margin:0; box-sizing: border-box;}
+ul,li{list-style:none;}
+a{text-decoration: none; color:inherit;}
+table{width:100%; border-collapse:collapse;}
+img{max-width: 100%;}
+body{background-color: #fff; color:#333;}
+
+.in{width:200px; height:200px; color:#6353ac;}
